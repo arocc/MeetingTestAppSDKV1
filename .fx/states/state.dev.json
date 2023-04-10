@@ -1,0 +1,28 @@
+{
+    "solution": {
+        "provisionSucceeded": true,
+        "teamsAppTenantId": "72f988bf-86f1-41af-91ab-2d7cd011db47",
+        "subscriptionId": "534d17fb-600d-4a58-8540-40599fb5ddce",
+        "subscriptionName": "msteams.nonprod.pub.msft.aplt",
+        "tenantId": "72f988bf-86f1-41af-91ab-2d7cd011db47",
+        "needCreateResourceGroup": false,
+        "resourceGroupName": "arochaTesting",
+        "location": "westus2",
+        "resourceNameSuffix": "c3ff5a"
+    },
+    "fx-resource-appstudio": {
+        "tenantId": "72f988bf-86f1-41af-91ab-2d7cd011db47",
+        "teamsAppId": "ab8c7851-3035-4126-841f-7d416f555f7c"
+    },
+    "fx-resource-frontend-hosting": {
+        "indexPath": "/index.html#",
+        "domain": "inmeetingdevc3ff5atab.z5.web.core.windows.net",
+        "endpoint": "https://inmeetingdevc3ff5atab.z5.web.core.windows.net",
+        "storageResourceId": "/subscriptions/534d17fb-600d-4a58-8540-40599fb5ddce/resourceGroups/arochaTesting/providers/Microsoft.Storage/storageAccounts/inmeetingdevc3ff5atab"
+    },
+    "fx-resource-identity": {
+        "identityName": "inmeetingdevc3ff5a",
+        "identityResourceId": "/subscriptions/534d17fb-600d-4a58-8540-40599fb5ddce/resourceGroups/arochaTesting/providers/Microsoft.ManagedIdentity/userAssignedIdentities/inmeetingdevc3ff5a",
+        "identityClientId": "1c4038d3-d5d9-4ff8-a36c-fd54d23fcfb4"
+    }
+}
